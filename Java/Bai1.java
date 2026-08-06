@@ -1,4 +1,3 @@
-@@ -0,0 +1,18 @@
 import java.util.Scanner;
 
 public class Bai1 {
